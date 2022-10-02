@@ -1,0 +1,724 @@
+
+Epoch : 0
+Saving model at 0 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru0.pt
+Train Loss     : 2.8339
+Val Loss     : 8.1350
+Clusterability     : 0.2347
+
+Epoch : 1
+Saving model at 1 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru1.pt
+Train Loss     : 2.8044
+Val Loss     : 8.0743
+Clusterability     : 0.2161
+
+Epoch : 2
+Saving model at 2 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru2.pt
+Train Loss     : 2.8140
+Val Loss     : 8.1490
+Clusterability     : 0.2372
+
+Epoch : 3
+Saving model at 3 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru3.pt
+Train Loss     : 2.8077
+Val Loss     : 7.7662
+Clusterability     : 0.2233
+
+Epoch : 4
+Saving model at 4 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru4.pt
+Train Loss     : 2.7635
+Val Loss     : 7.7950
+Clusterability     : 0.2269
+
+Epoch : 5
+Saving model at 5 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru5.pt
+Train Loss     : 2.7641
+Val Loss     : 7.8395
+Clusterability     : 0.2225
+
+Epoch : 6
+Saving model at 6 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru6.pt
+Train Loss     : 2.7565
+Val Loss     : 7.6662
+Clusterability     : 0.2333
+
+Epoch : 7
+Saving model at 7 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru7.pt
+Train Loss     : 2.7615
+Val Loss     : 7.0689
+Clusterability     : 0.2375
+
+Epoch : 8
+Saving model at 8 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru8.pt
+Train Loss     : 2.7580
+Val Loss     : 7.2715
+Clusterability     : 0.2428
+
+Epoch : 9
+Saving model at 9 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru9.pt
+Train Loss     : 2.7521
+Val Loss     : 7.9427
+Clusterability     : 0.2406
+
+Epoch : 10
+Saving model at 10 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru10.pt
+Train Loss     : 2.7493
+Val Loss     : 7.1268
+Clusterability     : 0.2367
+
+Epoch : 11
+Saving model at 11 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru11.pt
+Train Loss     : 2.7357
+Val Loss     : 8.0733
+Clusterability     : 0.2156
+
+Epoch : 12
+Saving model at 12 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru12.pt
+Train Loss     : 2.7159
+Val Loss     : 7.9009
+Clusterability     : 0.2319
+
+Epoch : 13
+Saving model at 13 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru13.pt
+Train Loss     : 2.7152
+Val Loss     : 7.9726
+Clusterability     : 0.2333
+
+Epoch : 14
+Saving model at 14 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru14.pt
+Train Loss     : 2.7374
+Val Loss     : 7.3303
+Clusterability     : 0.2500
+
+Epoch : 15
+Saving model at 15 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru15.pt
+Train Loss     : 2.7039
+Val Loss     : 7.5169
+Clusterability     : 0.2389
+
+Epoch : 16
+Saving model at 16 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru16.pt
+Train Loss     : 2.7010
+Val Loss     : 8.1711
+Clusterability     : 0.2258
+
+Epoch : 17
+Saving model at 17 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru17.pt
+Train Loss     : 2.7140
+Val Loss     : 7.5025
+Clusterability     : 0.2433
+
+Epoch : 18
+Saving model at 18 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru18.pt
+Train Loss     : 2.6906
+Val Loss     : 7.1250
+Clusterability     : 0.2394
+
+Epoch : 19
+Saving model at 19 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru19.pt
+Train Loss     : 2.6860
+Val Loss     : 7.2470
+Clusterability     : 0.2344
+
+Epoch : 20
+Saving model at 20 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru20.pt
+Train Loss     : 2.6793
+Val Loss     : 7.3062
+Clusterability     : 0.2325
+
+Epoch : 21
+Saving model at 21 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru21.pt
+Train Loss     : 2.6663
+Val Loss     : 7.3065
+Clusterability     : 0.2322
+
+Epoch : 22
+Saving model at 22 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru22.pt
+Train Loss     : 2.6771
+Val Loss     : 7.4344
+Clusterability     : 0.2419
+
+Epoch : 23
+Saving model at 23 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru23.pt
+Train Loss     : 2.6713
+Val Loss     : 6.9535
+Clusterability     : 0.2261
+
+Epoch : 24
+Saving model at 24 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru24.pt
+Train Loss     : 2.6814
+Val Loss     : 6.5838
+Clusterability     : 0.2219
+
+Epoch : 25
+Saving model at 25 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru25.pt
+Train Loss     : 2.6850
+Val Loss     : 6.7940
+Clusterability     : 0.2411
+
+Epoch : 26
+Saving model at 26 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru26.pt
+Train Loss     : 2.6737
+Val Loss     : 7.3308
+Clusterability     : 0.2353
+
+Epoch : 27
+Saving model at 27 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru27.pt
+Train Loss     : 2.6758
+Val Loss     : 7.3338
+Clusterability     : 0.2286
+
+Epoch : 28
+Saving model at 28 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru28.pt
+Train Loss     : 2.6637
+Val Loss     : 7.2052
+Clusterability     : 0.2492
+
+Epoch : 29
+Saving model at 29 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru29.pt
+Train Loss     : 2.6553
+Val Loss     : 7.5616
+Clusterability     : 0.2414
+
+Epoch : 30
+Saving model at 30 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru30.pt
+Train Loss     : 2.6428
+Val Loss     : 7.2837
+Clusterability     : 0.2450
+
+Epoch : 31
+Saving model at 31 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru31.pt
+Train Loss     : 2.6606
+Val Loss     : 7.4567
+Clusterability     : 0.2364
+
+Epoch : 32
+Saving model at 32 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru32.pt
+Train Loss     : 2.6577
+Val Loss     : 7.6047
+Clusterability     : 0.2336
+
+Epoch : 33
+Saving model at 33 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru33.pt
+Train Loss     : 2.6496
+Val Loss     : 7.6248
+Clusterability     : 0.2311
+
+Epoch : 34
+Saving model at 34 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru34.pt
+Train Loss     : 2.6603
+Val Loss     : 7.3231
+Clusterability     : 0.2297
+
+Epoch : 35
+Saving model at 35 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru35.pt
+Train Loss     : 2.6460
+Val Loss     : 7.2061
+Clusterability     : 0.2286
+
+Epoch : 36
+Saving model at 36 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru36.pt
+Train Loss     : 2.6389
+Val Loss     : 6.7418
+Clusterability     : 0.2178
+
+Epoch : 37
+Saving model at 37 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru37.pt
+Train Loss     : 2.6259
+Val Loss     : 7.1836
+Clusterability     : 0.2219
+
+Epoch : 38
+Saving model at 38 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru38.pt
+Train Loss     : 2.6442
+Val Loss     : 6.6275
+Clusterability     : 0.2308
+
+Epoch : 39
+Saving model at 39 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru39.pt
+Train Loss     : 2.6152
+Val Loss     : 7.2704
+Clusterability     : 0.2344
+
+Epoch : 40
+Saving model at 40 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru40.pt
+Train Loss     : 2.6196
+Val Loss     : 7.1074
+Clusterability     : 0.2575
+
+Epoch : 41
+Saving model at 41 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru41.pt
+Train Loss     : 2.6418
+Val Loss     : 6.8932
+Clusterability     : 0.2247
+
+Epoch : 42
+Saving model at 42 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru42.pt
+Train Loss     : 2.6274
+Val Loss     : 7.2583
+Clusterability     : 0.2306
+
+Epoch : 43
+Saving model at 43 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru43.pt
+Train Loss     : 2.6273
+Val Loss     : 7.0821
+Clusterability     : 0.2336
+
+Epoch : 44
+Saving model at 44 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru44.pt
+Train Loss     : 2.6238
+Val Loss     : 7.2371
+Clusterability     : 0.2319
+
+Epoch : 45
+Saving model at 45 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru45.pt
+Train Loss     : 2.6145
+Val Loss     : 7.2932
+Clusterability     : 0.2375
+
+Epoch : 46
+Saving model at 46 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru46.pt
+Train Loss     : 2.6339
+Val Loss     : 6.9249
+Clusterability     : 0.2383
+
+Epoch : 47
+Saving model at 47 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru47.pt
+Train Loss     : 2.6197
+Val Loss     : 6.9939
+Clusterability     : 0.2203
+
+Epoch : 48
+Saving model at 48 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru48.pt
+Train Loss     : 2.6307
+Val Loss     : 6.9881
+Clusterability     : 0.2186
+
+Epoch : 49
+Saving model at 49 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru49.pt
+Train Loss     : 2.6146
+Val Loss     : 7.3033
+Clusterability     : 0.2328
+
+Epoch : 50
+Saving model at 50 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru50.pt
+Train Loss     : 2.5909
+Val Loss     : 7.3392
+Clusterability     : 0.2317
+
+Epoch : 51
+Saving model at 51 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru51.pt
+Train Loss     : 2.6240
+Val Loss     : 7.3048
+Clusterability     : 0.2575
+
+Epoch : 52
+Saving model at 52 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru52.pt
+Train Loss     : 2.6068
+Val Loss     : 6.9988
+Clusterability     : 0.2567
+
+Epoch : 53
+Saving model at 53 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru53.pt
+Train Loss     : 2.5988
+Val Loss     : 7.4988
+Clusterability     : 0.2414
+
+Epoch : 54
+Saving model at 54 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru54.pt
+Train Loss     : 2.6116
+Val Loss     : 6.9933
+Clusterability     : 0.2208
+
+Epoch : 55
+Saving model at 55 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru55.pt
+Train Loss     : 2.6007
+Val Loss     : 6.8294
+Clusterability     : 0.2378
+
+Epoch : 56
+Saving model at 56 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru56.pt
+Train Loss     : 2.6086
+Val Loss     : 7.2922
+Clusterability     : 0.2344
+
+Epoch : 57
+Saving model at 57 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru57.pt
+Train Loss     : 2.6094
+Val Loss     : 6.9070
+Clusterability     : 0.2189
+
+Epoch : 58
+Saving model at 58 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru58.pt
+Train Loss     : 2.5955
+Val Loss     : 6.5942
+Clusterability     : 0.2375
+
+Epoch : 59
+Saving model at 59 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru59.pt
+Train Loss     : 2.5977
+Val Loss     : 7.1158
+Clusterability     : 0.2225
+
+Epoch : 60
+Saving model at 60 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru60.pt
+Train Loss     : 2.5975
+Val Loss     : 6.9001
+Clusterability     : 0.2222
+
+Epoch : 61
+Saving model at 61 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru61.pt
+Train Loss     : 2.5846
+Val Loss     : 7.0922
+Clusterability     : 0.2161
+
+Epoch : 62
+Saving model at 62 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru62.pt
+Train Loss     : 2.5901
+Val Loss     : 6.8582
+Clusterability     : 0.2422
+
+Epoch : 63
+Saving model at 63 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru63.pt
+Train Loss     : 2.5894
+Val Loss     : 6.9291
+Clusterability     : 0.2281
+
+Epoch : 64
+Saving model at 64 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru64.pt
+Train Loss     : 2.5906
+Val Loss     : 6.6759
+Clusterability     : 0.2233
+
+Epoch : 65
+Saving model at 65 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru65.pt
+Train Loss     : 2.6026
+Val Loss     : 6.2199
+Clusterability     : 0.2344
+
+Epoch : 66
+Saving model at 66 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru66.pt
+Train Loss     : 2.5941
+Val Loss     : 6.9769
+Clusterability     : 0.2281
+
+Epoch : 67
+Saving model at 67 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru67.pt
+Train Loss     : 2.5903
+Val Loss     : 7.0202
+Clusterability     : 0.2375
+
+Epoch : 68
+Saving model at 68 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru68.pt
+Train Loss     : 2.5827
+Val Loss     : 7.0305
+Clusterability     : 0.2175
+
+Epoch : 69
+Saving model at 69 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru69.pt
+Train Loss     : 2.5935
+Val Loss     : 6.7574
+Clusterability     : 0.2353
+
+Epoch : 70
+Saving model at 70 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru70.pt
+Train Loss     : 2.5878
+Val Loss     : 6.7764
+Clusterability     : 0.2272
+
+Epoch : 71
+Saving model at 71 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru71.pt
+Train Loss     : 2.5891
+Val Loss     : 6.3225
+Clusterability     : 0.2483
+
+Epoch : 72
+Saving model at 72 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru72.pt
+Train Loss     : 2.5805
+Val Loss     : 6.5991
+Clusterability     : 0.2308
+
+Epoch : 73
+Saving model at 73 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru73.pt
+Train Loss     : 2.5699
+Val Loss     : 6.6444
+Clusterability     : 0.2186
+
+Epoch : 74
+Saving model at 74 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru74.pt
+Train Loss     : 2.5872
+Val Loss     : 6.7836
+Clusterability     : 0.2256
+
+Epoch : 75
+Saving model at 75 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru75.pt
+Train Loss     : 2.5794
+Val Loss     : 6.4632
+Clusterability     : 0.2219
+
+Epoch : 76
+Saving model at 76 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru76.pt
+Train Loss     : 2.5739
+Val Loss     : 6.6971
+Clusterability     : 0.2294
+
+Epoch : 77
+Saving model at 77 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru77.pt
+Train Loss     : 2.5815
+Val Loss     : 6.7556
+Clusterability     : 0.2164
+
+Epoch : 78
+Saving model at 78 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru78.pt
+Train Loss     : 2.5814
+Val Loss     : 7.1095
+Clusterability     : 0.2350
+
+Epoch : 79
+Saving model at 79 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru79.pt
+Train Loss     : 2.5783
+Val Loss     : 6.9275
+Clusterability     : 0.2272
+
+Epoch : 80
+Saving model at 80 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru80.pt
+Train Loss     : 2.5785
+Val Loss     : 6.8551
+Clusterability     : 0.2467
+
+Epoch : 81
+Saving model at 81 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru81.pt
+Train Loss     : 2.5697
+Val Loss     : 6.7724
+Clusterability     : 0.2342
+
+Epoch : 82
+Saving model at 82 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru82.pt
+Train Loss     : 2.5684
+Val Loss     : 6.8715
+Clusterability     : 0.2169
+
+Epoch : 83
+Saving model at 83 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru83.pt
+Train Loss     : 2.5834
+Val Loss     : 6.7163
+Clusterability     : 0.2311
+
+Epoch : 84
+Saving model at 84 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru84.pt
+Train Loss     : 2.5758
+Val Loss     : 6.7267
+Clusterability     : 0.2278
+
+Epoch : 85
+Saving model at 85 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru85.pt
+Train Loss     : 2.5772
+Val Loss     : 6.6570
+Clusterability     : 0.2239
+
+Epoch : 86
+Saving model at 86 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru86.pt
+Train Loss     : 2.5709
+Val Loss     : 6.6652
+Clusterability     : 0.2128
+
+Epoch : 87
+Saving model at 87 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru87.pt
+Train Loss     : 2.5724
+Val Loss     : 6.9382
+Clusterability     : 0.2433
+
+Epoch : 88
+Saving model at 88 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru88.pt
+Train Loss     : 2.5820
+Val Loss     : 6.6138
+Clusterability     : 0.2425
+
+Epoch : 89
+Saving model at 89 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru89.pt
+Train Loss     : 2.5777
+Val Loss     : 6.7772
+Clusterability     : 0.2339
+
+Epoch : 90
+Saving model at 90 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru90.pt
+Train Loss     : 2.5763
+Val Loss     : 6.8248
+Clusterability     : 0.2378
+
+Epoch : 91
+Saving model at 91 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru91.pt
+Train Loss     : 2.5854
+Val Loss     : 6.7696
+Clusterability     : 0.2342
+
+Epoch : 92
+Saving model at 92 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru92.pt
+Train Loss     : 2.5625
+Val Loss     : 6.6649
+Clusterability     : 0.2269
+
+Epoch : 93
+Saving model at 93 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru93.pt
+Train Loss     : 2.5723
+Val Loss     : 6.7022
+Clusterability     : 0.2225
+
+Epoch : 94
+Saving model at 94 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru94.pt
+Train Loss     : 2.5685
+Val Loss     : 6.6635
+Clusterability     : 0.2378
+
+Epoch : 95
+Saving model at 95 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru95.pt
+Train Loss     : 2.5651
+Val Loss     : 6.7248
+Clusterability     : 0.2247
+
+Epoch : 96
+Saving model at 96 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru96.pt
+Train Loss     : 2.5578
+Val Loss     : 6.6707
+Clusterability     : 0.2264
+
+Epoch : 97
+Saving model at 97 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru97.pt
+Train Loss     : 2.5602
+Val Loss     : 6.6085
+Clusterability     : 0.2353
+
+Epoch : 98
+Saving model at 98 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru98.pt
+Train Loss     : 2.5563
+Val Loss     : 6.7931
+Clusterability     : 0.2392
+
+Epoch : 99
+Saving model at 99 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru99.pt
+Train Loss     : 2.5732
+Val Loss     : 6.5558
+Clusterability     : 0.2442
+
+Epoch : 100
+Saving model at 100 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru100.pt
+Train Loss     : 2.5770
+Val Loss     : 6.8193
+Clusterability     : 0.2244
+
+Epoch : 101
+Saving model at 101 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru101.pt
+Train Loss     : 2.5700
+Val Loss     : 6.4731
+Clusterability     : 0.2272
+
+Epoch : 102
+Saving model at 102 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru102.pt
+Train Loss     : 2.5827
+Val Loss     : 6.6192
+Clusterability     : 0.2319
+
+Epoch : 103
+Saving model at 103 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru103.pt
+Train Loss     : 2.5790
+Val Loss     : 6.6924
+Clusterability     : 0.2272
+
+Epoch : 104
+Saving model at 104 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru104.pt
+Train Loss     : 2.5752
+Val Loss     : 6.6358
+Clusterability     : 0.2258
+
+Epoch : 105
+Saving model at 105 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru105.pt
+Train Loss     : 2.5729
+Val Loss     : 6.6926
+Clusterability     : 0.2419
+
+Epoch : 106
+Saving model at 106 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru106.pt
+Train Loss     : 2.5684
+Val Loss     : 6.8398
+Clusterability     : 0.2325
+
+Epoch : 107
+Saving model at 107 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru107.pt
+Train Loss     : 2.5708
+Val Loss     : 6.4542
+Clusterability     : 0.2308
+
+Epoch : 108
+Saving model at 108 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru108.pt
+Train Loss     : 2.5730
+Val Loss     : 6.7107
+Clusterability     : 0.2322
+
+Epoch : 109
+Saving model at 109 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru109.pt
+Train Loss     : 2.5714
+Val Loss     : 6.9639
+Clusterability     : 0.2411
+
+Epoch : 110
+Saving model at 110 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru110.pt
+Train Loss     : 2.5723
+Val Loss     : 6.7379
+Clusterability     : 0.2361
+
+Epoch : 111
+Saving model at 111 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru111.pt
+Train Loss     : 2.5801
+Val Loss     : 6.7756
+Clusterability     : 0.2336
+
+Epoch : 112
+Saving model at 112 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru112.pt
+Train Loss     : 2.5765
+Val Loss     : 6.5339
+Clusterability     : 0.2375
+
+Epoch : 113
+Saving model at 113 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru113.pt
+Train Loss     : 2.5785
+Val Loss     : 6.6045
+Clusterability     : 0.2372
+
+Epoch : 114
+Saving model at 114 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru114.pt
+Train Loss     : 2.5721
+Val Loss     : 6.5642
+Clusterability     : 0.2219
+
+Epoch : 115
+Saving model at 115 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru115.pt
+Train Loss     : 2.5760
+Val Loss     : 6.5649
+Clusterability     : 0.2019
+
+Epoch : 116
+Saving model at 116 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru116.pt
+Train Loss     : 2.5700
+Val Loss     : 6.8058
+Clusterability     : 0.2106
+
+Epoch : 117
+Saving model at 117 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru117.pt
+Train Loss     : 2.5757
+Val Loss     : 6.7845
+Clusterability     : 0.2464
+
+Epoch : 118
+Saving model at 118 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru118.pt
+Train Loss     : 2.5684
+Val Loss     : 6.4194
+Clusterability     : 0.2150
+
+Epoch : 119
+Saving model at 119 epoch to results/pretrain_try_scheduler_simclr_pretrain__eps120_lr0.003_bs100_aug1noise_aug2negate_dim-pdim96-96_EMA0.996_criterion_NTXent_lambda1_1.0_lambda2_1.0_tempunit_gru119.pt
+Train Loss     : 2.5757
+Val Loss     : 6.8315
+Clusterability     : 0.2267
+Feature extraction for set with shape:  (5514, 6, 128)
+Flattening
+Feature extraction for set with shape:  (2947, 6, 128)
+Flattening

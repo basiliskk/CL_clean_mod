@@ -1,0 +1,2519 @@
+
+Epoch : 0
+Train Loss     : 4.8190
+Val Loss     : 4.3732
+Clusterability     : 0.2946
+
+Epoch : 1
+Train Loss     : 4.2424
+Val Loss     : 4.2162
+Clusterability     : 0.3189
+
+Epoch : 2
+Train Loss     : 3.7194
+Val Loss     : 4.2305
+Clusterability     : 0.4168
+
+Epoch : 3
+Train Loss     : 2.7674
+Val Loss     : 2.4557
+Clusterability     : 0.4450
+
+Epoch : 4
+Train Loss     : 1.7679
+Val Loss     : 1.7148
+Clusterability     : 0.3868
+
+Epoch : 5
+Train Loss     : 1.2125
+Val Loss     : 1.3915
+Clusterability     : 0.4021
+
+Epoch : 6
+Train Loss     : 0.9226
+Val Loss     : 1.2906
+Clusterability     : 0.4157
+
+Epoch : 7
+Train Loss     : 0.7308
+Val Loss     : 1.1760
+Clusterability     : 0.3704
+
+Epoch : 8
+Train Loss     : 0.6110
+Val Loss     : 1.1607
+Clusterability     : 0.4204
+
+Epoch : 9
+Train Loss     : 0.5525
+Val Loss     : 1.1021
+Clusterability     : 0.3868
+
+Epoch : 10
+Train Loss     : 0.5066
+Val Loss     : 1.0694
+Clusterability     : 0.4168
+
+Epoch : 11
+Train Loss     : 0.4351
+Val Loss     : 0.9168
+Clusterability     : 0.4004
+
+Epoch : 12
+Train Loss     : 0.3772
+Val Loss     : 0.8282
+Clusterability     : 0.4011
+
+Epoch : 13
+Train Loss     : 0.3610
+Val Loss     : 0.8660
+Clusterability     : 0.3961
+
+Epoch : 14
+Train Loss     : 0.3301
+Val Loss     : 0.8007
+Clusterability     : 0.3804
+
+Epoch : 15
+Train Loss     : 0.3069
+Val Loss     : 0.7573
+Clusterability     : 0.3807
+
+Epoch : 16
+Train Loss     : 0.2930
+Val Loss     : 0.7108
+Clusterability     : 0.3786
+
+Epoch : 17
+Train Loss     : 0.2699
+Val Loss     : 0.7458
+Clusterability     : 0.3614
+
+Epoch : 18
+Train Loss     : 0.2567
+Val Loss     : 0.7073
+Clusterability     : 0.3811
+
+Epoch : 19
+Train Loss     : 0.2448
+Val Loss     : 0.6678
+Clusterability     : 0.3636
+
+Epoch : 20
+Train Loss     : 0.2274
+Val Loss     : 0.7243
+Clusterability     : 0.3700
+
+Epoch : 21
+Train Loss     : 0.2271
+Val Loss     : 0.7029
+Clusterability     : 0.3686
+
+Epoch : 22
+Train Loss     : 0.2167
+Val Loss     : 0.6397
+Clusterability     : 0.3614
+
+Epoch : 23
+Train Loss     : 0.2123
+Val Loss     : 0.6578
+Clusterability     : 0.3775
+
+Epoch : 24
+Train Loss     : 0.1999
+Val Loss     : 0.6930
+Clusterability     : 0.3736
+
+Epoch : 25
+Train Loss     : 0.2037
+Val Loss     : 0.6125
+Clusterability     : 0.3586
+
+Epoch : 26
+Train Loss     : 0.1967
+Val Loss     : 0.7432
+Clusterability     : 0.3771
+
+Epoch : 27
+Train Loss     : 0.1931
+Val Loss     : 0.7732
+Clusterability     : 0.3636
+
+Epoch : 28
+Train Loss     : 0.1911
+Val Loss     : 0.7429
+Clusterability     : 0.3586
+
+Epoch : 29
+Train Loss     : 0.1846
+Val Loss     : 0.6587
+Clusterability     : 0.3471
+
+Epoch : 30
+Train Loss     : 0.1793
+Val Loss     : 0.5906
+Clusterability     : 0.3486
+
+Epoch : 31
+Train Loss     : 0.1779
+Val Loss     : 0.5795
+Clusterability     : 0.3407
+
+Epoch : 32
+Train Loss     : 0.1751
+Val Loss     : 0.6007
+Clusterability     : 0.3500
+
+Epoch : 33
+Train Loss     : 0.1708
+Val Loss     : 0.6182
+Clusterability     : 0.3550
+
+Epoch : 34
+Train Loss     : 0.1652
+Val Loss     : 0.6114
+Clusterability     : 0.3457
+
+Epoch : 35
+Train Loss     : 0.1585
+Val Loss     : 0.5720
+Clusterability     : 0.3482
+
+Epoch : 36
+Train Loss     : 0.1562
+Val Loss     : 0.5625
+Clusterability     : 0.3604
+
+Epoch : 37
+Train Loss     : 0.1504
+Val Loss     : 0.5464
+Clusterability     : 0.3043
+
+Epoch : 38
+Train Loss     : 0.1471
+Val Loss     : 0.4989
+Clusterability     : 0.3464
+
+Epoch : 39
+Train Loss     : 0.1465
+Val Loss     : 0.5286
+Clusterability     : 0.3193
+
+Epoch : 40
+Train Loss     : 0.1376
+Val Loss     : 0.5165
+Clusterability     : 0.3468
+
+Epoch : 41
+Train Loss     : 0.1342
+Val Loss     : 0.4949
+Clusterability     : 0.3468
+
+Epoch : 42
+Train Loss     : 0.1323
+Val Loss     : 0.4713
+Clusterability     : 0.3443
+
+Epoch : 43
+Train Loss     : 0.1277
+Val Loss     : 0.4690
+Clusterability     : 0.3504
+
+Epoch : 44
+Train Loss     : 0.1220
+Val Loss     : 0.4221
+Clusterability     : 0.3486
+
+Epoch : 45
+Train Loss     : 0.1200
+Val Loss     : 0.4234
+Clusterability     : 0.3361
+
+Epoch : 46
+Train Loss     : 0.1174
+Val Loss     : 0.4350
+Clusterability     : 0.3168
+
+Epoch : 47
+Train Loss     : 0.1105
+Val Loss     : 0.4380
+Clusterability     : 0.3286
+
+Epoch : 48
+Train Loss     : 0.1107
+Val Loss     : 0.4843
+Clusterability     : 0.3211
+
+Epoch : 49
+Train Loss     : 0.1003
+Val Loss     : 0.4539
+Clusterability     : 0.3361
+
+Epoch : 50
+Train Loss     : 0.1041
+Val Loss     : 0.4010
+Clusterability     : 0.3164
+
+Epoch : 51
+Train Loss     : 0.0992
+Val Loss     : 0.4438
+Clusterability     : 0.3293
+
+Epoch : 52
+Train Loss     : 0.0981
+Val Loss     : 0.3870
+Clusterability     : 0.3311
+
+Epoch : 53
+Train Loss     : 0.0995
+Val Loss     : 0.3963
+Clusterability     : 0.3168
+
+Epoch : 54
+Train Loss     : 0.0958
+Val Loss     : 0.3988
+Clusterability     : 0.3221
+
+Epoch : 55
+Train Loss     : 0.0930
+Val Loss     : 0.3944
+Clusterability     : 0.3221
+
+Epoch : 56
+Train Loss     : 0.0917
+Val Loss     : 0.3784
+Clusterability     : 0.3425
+
+Epoch : 57
+Train Loss     : 0.0862
+Val Loss     : 0.3716
+Clusterability     : 0.3364
+
+Epoch : 58
+Train Loss     : 0.0843
+Val Loss     : 0.4198
+Clusterability     : 0.3464
+
+Epoch : 59
+Train Loss     : 0.0827
+Val Loss     : 0.3840
+Clusterability     : 0.3443
+
+Epoch : 60
+Train Loss     : 0.0808
+Val Loss     : 0.3597
+Clusterability     : 0.3504
+
+Epoch : 61
+Train Loss     : 0.0822
+Val Loss     : 0.3533
+Clusterability     : 0.3100
+
+Epoch : 62
+Train Loss     : 0.0781
+Val Loss     : 0.3835
+Clusterability     : 0.3650
+
+Epoch : 63
+Train Loss     : 0.0789
+Val Loss     : 0.3762
+Clusterability     : 0.3175
+
+Epoch : 64
+Train Loss     : 0.0756
+Val Loss     : 0.3956
+Clusterability     : 0.3468
+
+Epoch : 65
+Train Loss     : 0.0749
+Val Loss     : 0.3714
+Clusterability     : 0.3289
+
+Epoch : 66
+Train Loss     : 0.0761
+Val Loss     : 0.3575
+Clusterability     : 0.3300
+
+Epoch : 67
+Train Loss     : 0.0739
+Val Loss     : 0.3656
+Clusterability     : 0.3450
+
+Epoch : 68
+Train Loss     : 0.0732
+Val Loss     : 0.3702
+Clusterability     : 0.3329
+
+Epoch : 69
+Train Loss     : 0.0701
+Val Loss     : 0.3529
+Clusterability     : 0.3604
+
+Epoch : 70
+Train Loss     : 0.0707
+Val Loss     : 0.3970
+Clusterability     : 0.3368
+
+Epoch : 71
+Train Loss     : 0.0698
+Val Loss     : 0.3807
+Clusterability     : 0.3457
+
+Epoch : 72
+Train Loss     : 0.0669
+Val Loss     : 0.3710
+Clusterability     : 0.3364
+
+Epoch : 73
+Train Loss     : 0.0666
+Val Loss     : 0.3765
+Clusterability     : 0.3629
+
+Epoch : 74
+Train Loss     : 0.0666
+Val Loss     : 0.3584
+Clusterability     : 0.3307
+
+Epoch : 75
+Train Loss     : 0.0676
+Val Loss     : 0.3555
+Clusterability     : 0.3350
+
+Epoch : 76
+Train Loss     : 0.0647
+Val Loss     : 0.3484
+Clusterability     : 0.3179
+
+Epoch : 77
+Train Loss     : 0.0676
+Val Loss     : 0.3479
+Clusterability     : 0.3464
+
+Epoch : 78
+Train Loss     : 0.0636
+Val Loss     : 0.3143
+Clusterability     : 0.3279
+
+Epoch : 79
+Train Loss     : 0.0617
+Val Loss     : 0.3381
+Clusterability     : 0.3379
+
+Epoch : 80
+Train Loss     : 0.0626
+Val Loss     : 0.3364
+Clusterability     : 0.3500
+
+Epoch : 81
+Train Loss     : 0.0618
+Val Loss     : 0.3503
+Clusterability     : 0.3289
+
+Epoch : 82
+Train Loss     : 0.0631
+Val Loss     : 0.3335
+Clusterability     : 0.3389
+
+Epoch : 83
+Train Loss     : 0.0623
+Val Loss     : 0.3478
+Clusterability     : 0.3354
+
+Epoch : 84
+Train Loss     : 0.0608
+Val Loss     : 0.3167
+Clusterability     : 0.3282
+
+Epoch : 85
+Train Loss     : 0.0597
+Val Loss     : 0.3316
+Clusterability     : 0.3400
+
+Epoch : 86
+Train Loss     : 0.0590
+Val Loss     : 0.3376
+Clusterability     : 0.3439
+
+Epoch : 87
+Train Loss     : 0.0589
+Val Loss     : 0.3546
+Clusterability     : 0.3393
+
+Epoch : 88
+Train Loss     : 0.0588
+Val Loss     : 0.3329
+Clusterability     : 0.3300
+
+Epoch : 89
+Train Loss     : 0.0567
+Val Loss     : 0.3070
+Clusterability     : 0.3118
+
+Epoch : 90
+Train Loss     : 0.0571
+Val Loss     : 0.3422
+Clusterability     : 0.3350
+
+Epoch : 91
+Train Loss     : 0.0577
+Val Loss     : 0.3352
+Clusterability     : 0.3475
+
+Epoch : 92
+Train Loss     : 0.0572
+Val Loss     : 0.3182
+Clusterability     : 0.3200
+
+Epoch : 93
+Train Loss     : 0.0579
+Val Loss     : 0.3225
+Clusterability     : 0.3421
+
+Epoch : 94
+Train Loss     : 0.0572
+Val Loss     : 0.3247
+Clusterability     : 0.3161
+
+Epoch : 95
+Train Loss     : 0.0571
+Val Loss     : 0.3309
+Clusterability     : 0.3061
+
+Epoch : 96
+Train Loss     : 0.0563
+Val Loss     : 0.3289
+Clusterability     : 0.3293
+
+Epoch : 97
+Train Loss     : 0.0565
+Val Loss     : 0.3252
+Clusterability     : 0.3421
+
+Epoch : 98
+Train Loss     : 0.0557
+Val Loss     : 0.2976
+Clusterability     : 0.3043
+
+Epoch : 99
+Train Loss     : 0.0567
+Val Loss     : 0.3090
+Clusterability     : 0.3368
+
+Epoch : 100
+Train Loss     : 0.0540
+Val Loss     : 0.3651
+Clusterability     : 0.3189
+
+Epoch : 101
+Train Loss     : 0.0541
+Val Loss     : 0.3424
+Clusterability     : 0.3175
+
+Epoch : 102
+Train Loss     : 0.0531
+Val Loss     : 0.3312
+Clusterability     : 0.3264
+
+Epoch : 103
+Train Loss     : 0.0536
+Val Loss     : 0.3228
+Clusterability     : 0.3250
+
+Epoch : 104
+Train Loss     : 0.0517
+Val Loss     : 0.3330
+Clusterability     : 0.3264
+
+Epoch : 105
+Train Loss     : 0.0547
+Val Loss     : 0.3183
+Clusterability     : 0.3354
+
+Epoch : 106
+Train Loss     : 0.0526
+Val Loss     : 0.3227
+Clusterability     : 0.3443
+
+Epoch : 107
+Train Loss     : 0.0545
+Val Loss     : 0.3221
+Clusterability     : 0.3254
+
+Epoch : 108
+Train Loss     : 0.0519
+Val Loss     : 0.3275
+Clusterability     : 0.3396
+
+Epoch : 109
+Train Loss     : 0.0546
+Val Loss     : 0.3201
+Clusterability     : 0.3146
+
+Epoch : 110
+Train Loss     : 0.0533
+Val Loss     : 0.3173
+Clusterability     : 0.3257
+
+Epoch : 111
+Train Loss     : 0.0525
+Val Loss     : 0.3349
+Clusterability     : 0.3457
+
+Epoch : 112
+Train Loss     : 0.0530
+Val Loss     : 0.3144
+Clusterability     : 0.3421
+
+Epoch : 113
+Train Loss     : 0.0540
+Val Loss     : 0.2994
+Clusterability     : 0.3282
+
+Epoch : 114
+Train Loss     : 0.0539
+Val Loss     : 0.3078
+Clusterability     : 0.3161
+
+Epoch : 115
+Train Loss     : 0.0533
+Val Loss     : 0.3263
+Clusterability     : 0.3271
+
+Epoch : 116
+Train Loss     : 0.0539
+Val Loss     : 0.3140
+Clusterability     : 0.3107
+
+Epoch : 117
+Train Loss     : 0.0521
+Val Loss     : 0.3224
+Clusterability     : 0.3275
+
+Epoch : 118
+Train Loss     : 0.0523
+Val Loss     : 0.3058
+Clusterability     : 0.3318
+
+Epoch : 119
+Train Loss     : 0.0537
+Val Loss     : 0.3174
+Clusterability     : 0.3425
+
+Epoch : 0
+
+Epoch : 0
+Train Loss     : 4.9063
+Val Loss     : 6.5167
+Clusterability     : 0.1397
+
+Epoch : 1
+Train Loss     : 4.3479
+Val Loss     : 7.1796
+Clusterability     : 0.1522
+
+Epoch : 2
+Train Loss     : 4.0510
+Val Loss     : 6.5052
+Clusterability     : 0.1661
+
+Epoch : 3
+Train Loss     : 3.9009
+Val Loss     : 7.4061
+Clusterability     : 0.1797
+
+Epoch : 4
+Train Loss     : 3.6760
+Val Loss     : 8.8689
+Clusterability     : 0.1856
+
+Epoch : 5
+Train Loss     : 3.4540
+Val Loss     : 6.9056
+Clusterability     : 0.2017
+
+Epoch : 6
+Train Loss     : 3.3615
+Val Loss     : 7.7288
+Clusterability     : 0.1894
+
+Epoch : 7
+Train Loss     : 3.3279
+Val Loss     : 7.3152
+Clusterability     : 0.1836
+
+Epoch : 8
+Train Loss     : 3.2402
+Val Loss     : 7.9604
+Clusterability     : 0.2028
+
+Epoch : 9
+Train Loss     : 3.1562
+Val Loss     : 7.6646
+Clusterability     : 0.1914
+
+Epoch : 10
+Train Loss     : 3.1109
+Val Loss     : 8.2242
+Clusterability     : 0.2058
+
+Epoch : 11
+Train Loss     : 3.0929
+Val Loss     : 8.1051
+Clusterability     : 0.2164
+
+Epoch : 12
+Train Loss     : 3.0413
+Val Loss     : 8.0584
+Clusterability     : 0.1981
+
+Epoch : 13
+Train Loss     : 3.0148
+Val Loss     : 7.7785
+Clusterability     : 0.2228
+
+Epoch : 14
+Train Loss     : 2.9970
+Val Loss     : 7.9689
+Clusterability     : 0.2183
+
+Epoch : 15
+Train Loss     : 2.9945
+Val Loss     : 7.9291
+Clusterability     : 0.2156
+
+Epoch : 16
+Train Loss     : 2.9606
+Val Loss     : 7.5742
+Clusterability     : 0.1950
+
+Epoch : 17
+Train Loss     : 2.9377
+Val Loss     : 8.0138
+Clusterability     : 0.2272
+
+Epoch : 18
+Train Loss     : 2.9134
+Val Loss     : 7.4428
+Clusterability     : 0.2361
+
+Epoch : 19
+Train Loss     : 2.8911
+Val Loss     : 7.8694
+Clusterability     : 0.2167
+
+Epoch : 20
+Train Loss     : 2.8657
+Val Loss     : 8.1087
+Clusterability     : 0.2275
+
+Epoch : 21
+Train Loss     : 2.8609
+Val Loss     : 8.1473
+Clusterability     : 0.2253
+
+Epoch : 22
+Train Loss     : 2.8403
+Val Loss     : 8.7433
+Clusterability     : 0.2358
+
+Epoch : 23
+
+Epoch : 0
+Train Loss     : 2.8339
+Val Loss     : 8.1350
+Clusterability     : 0.2347
+
+Epoch : 1
+Train Loss     : 2.8044
+Val Loss     : 8.0743
+Clusterability     : 0.2161
+
+Epoch : 2
+Train Loss     : 2.8140
+Val Loss     : 8.1490
+Clusterability     : 0.2372
+
+Epoch : 3
+Train Loss     : 2.8077
+Val Loss     : 7.7662
+Clusterability     : 0.2233
+
+Epoch : 4
+Train Loss     : 2.7635
+Val Loss     : 7.7950
+Clusterability     : 0.2269
+
+Epoch : 5
+Train Loss     : 2.7641
+Val Loss     : 7.8395
+Clusterability     : 0.2225
+
+Epoch : 6
+Train Loss     : 2.7565
+Val Loss     : 7.6662
+Clusterability     : 0.2333
+
+Epoch : 7
+Train Loss     : 2.7615
+Val Loss     : 7.0689
+Clusterability     : 0.2375
+
+Epoch : 8
+Train Loss     : 2.7580
+Val Loss     : 7.2715
+Clusterability     : 0.2428
+
+Epoch : 9
+Train Loss     : 2.7521
+Val Loss     : 7.9427
+Clusterability     : 0.2406
+
+Epoch : 10
+Train Loss     : 2.7493
+Val Loss     : 7.1268
+Clusterability     : 0.2367
+
+Epoch : 11
+Train Loss     : 2.7357
+Val Loss     : 8.0733
+Clusterability     : 0.2156
+
+Epoch : 12
+Train Loss     : 2.7159
+Val Loss     : 7.9009
+Clusterability     : 0.2319
+
+Epoch : 13
+Train Loss     : 2.7152
+Val Loss     : 7.9726
+Clusterability     : 0.2333
+
+Epoch : 14
+Train Loss     : 2.7374
+Val Loss     : 7.3303
+Clusterability     : 0.2500
+
+Epoch : 15
+Train Loss     : 2.7039
+Val Loss     : 7.5169
+Clusterability     : 0.2389
+
+Epoch : 16
+Train Loss     : 2.7010
+Val Loss     : 8.1711
+Clusterability     : 0.2258
+
+Epoch : 17
+Train Loss     : 2.7140
+Val Loss     : 7.5025
+Clusterability     : 0.2433
+
+Epoch : 18
+Train Loss     : 2.6906
+Val Loss     : 7.1250
+Clusterability     : 0.2394
+
+Epoch : 19
+Train Loss     : 2.6860
+Val Loss     : 7.2470
+Clusterability     : 0.2344
+
+Epoch : 20
+Train Loss     : 2.6793
+Val Loss     : 7.3062
+Clusterability     : 0.2325
+
+Epoch : 21
+Train Loss     : 2.6663
+Val Loss     : 7.3065
+Clusterability     : 0.2322
+
+Epoch : 22
+Train Loss     : 2.6771
+Val Loss     : 7.4344
+Clusterability     : 0.2419
+
+Epoch : 23
+Train Loss     : 2.6713
+Val Loss     : 6.9535
+Clusterability     : 0.2261
+
+Epoch : 24
+Train Loss     : 2.6814
+Val Loss     : 6.5838
+Clusterability     : 0.2219
+
+Epoch : 25
+Train Loss     : 2.6850
+Val Loss     : 6.7940
+Clusterability     : 0.2411
+
+Epoch : 26
+Train Loss     : 2.6737
+Val Loss     : 7.3308
+Clusterability     : 0.2353
+
+Epoch : 27
+Train Loss     : 2.6758
+Val Loss     : 7.3338
+Clusterability     : 0.2286
+
+Epoch : 28
+Train Loss     : 2.6637
+Val Loss     : 7.2052
+Clusterability     : 0.2492
+
+Epoch : 29
+Train Loss     : 2.6553
+Val Loss     : 7.5616
+Clusterability     : 0.2414
+
+Epoch : 30
+Train Loss     : 2.6428
+Val Loss     : 7.2837
+Clusterability     : 0.2450
+
+Epoch : 31
+Train Loss     : 2.6606
+Val Loss     : 7.4567
+Clusterability     : 0.2364
+
+Epoch : 32
+Train Loss     : 2.6577
+Val Loss     : 7.6047
+Clusterability     : 0.2336
+
+Epoch : 33
+Train Loss     : 2.6496
+Val Loss     : 7.6248
+Clusterability     : 0.2311
+
+Epoch : 34
+Train Loss     : 2.6603
+Val Loss     : 7.3231
+Clusterability     : 0.2297
+
+Epoch : 35
+Train Loss     : 2.6460
+Val Loss     : 7.2061
+Clusterability     : 0.2286
+
+Epoch : 36
+Train Loss     : 2.6389
+Val Loss     : 6.7418
+Clusterability     : 0.2178
+
+Epoch : 37
+Train Loss     : 2.6259
+Val Loss     : 7.1836
+Clusterability     : 0.2219
+
+Epoch : 38
+Train Loss     : 2.6442
+Val Loss     : 6.6275
+Clusterability     : 0.2308
+
+Epoch : 39
+Train Loss     : 2.6152
+Val Loss     : 7.2704
+Clusterability     : 0.2344
+
+Epoch : 40
+Train Loss     : 2.6196
+Val Loss     : 7.1074
+Clusterability     : 0.2575
+
+Epoch : 41
+Train Loss     : 2.6418
+Val Loss     : 6.8932
+Clusterability     : 0.2247
+
+Epoch : 42
+Train Loss     : 2.6274
+Val Loss     : 7.2583
+Clusterability     : 0.2306
+
+Epoch : 43
+Train Loss     : 2.6273
+Val Loss     : 7.0821
+Clusterability     : 0.2336
+
+Epoch : 44
+Train Loss     : 2.6238
+Val Loss     : 7.2371
+Clusterability     : 0.2319
+
+Epoch : 45
+Train Loss     : 2.6145
+Val Loss     : 7.2932
+Clusterability     : 0.2375
+
+Epoch : 46
+Train Loss     : 2.6339
+Val Loss     : 6.9249
+Clusterability     : 0.2383
+
+Epoch : 47
+Train Loss     : 2.6197
+Val Loss     : 6.9939
+Clusterability     : 0.2203
+
+Epoch : 48
+Train Loss     : 2.6307
+Val Loss     : 6.9881
+Clusterability     : 0.2186
+
+Epoch : 49
+Train Loss     : 2.6146
+Val Loss     : 7.3033
+Clusterability     : 0.2328
+
+Epoch : 50
+Train Loss     : 2.5909
+Val Loss     : 7.3392
+Clusterability     : 0.2317
+
+Epoch : 51
+Train Loss     : 2.6240
+Val Loss     : 7.3048
+Clusterability     : 0.2575
+
+Epoch : 52
+Train Loss     : 2.6068
+Val Loss     : 6.9988
+Clusterability     : 0.2567
+
+Epoch : 53
+Train Loss     : 2.5988
+Val Loss     : 7.4988
+Clusterability     : 0.2414
+
+Epoch : 54
+Train Loss     : 2.6116
+Val Loss     : 6.9933
+Clusterability     : 0.2208
+
+Epoch : 55
+Train Loss     : 2.6007
+Val Loss     : 6.8294
+Clusterability     : 0.2378
+
+Epoch : 56
+Train Loss     : 2.6086
+Val Loss     : 7.2922
+Clusterability     : 0.2344
+
+Epoch : 57
+Train Loss     : 2.6094
+Val Loss     : 6.9070
+Clusterability     : 0.2189
+
+Epoch : 58
+Train Loss     : 2.5955
+Val Loss     : 6.5942
+Clusterability     : 0.2375
+
+Epoch : 59
+Train Loss     : 2.5977
+Val Loss     : 7.1158
+Clusterability     : 0.2225
+
+Epoch : 60
+Train Loss     : 2.5975
+Val Loss     : 6.9001
+Clusterability     : 0.2222
+
+Epoch : 61
+Train Loss     : 2.5846
+Val Loss     : 7.0922
+Clusterability     : 0.2161
+
+Epoch : 62
+Train Loss     : 2.5901
+Val Loss     : 6.8582
+Clusterability     : 0.2422
+
+Epoch : 63
+Train Loss     : 2.5894
+Val Loss     : 6.9291
+Clusterability     : 0.2281
+
+Epoch : 64
+Train Loss     : 2.5906
+Val Loss     : 6.6759
+Clusterability     : 0.2233
+
+Epoch : 65
+Train Loss     : 2.6026
+Val Loss     : 6.2199
+Clusterability     : 0.2344
+
+Epoch : 66
+Train Loss     : 2.5941
+Val Loss     : 6.9769
+Clusterability     : 0.2281
+
+Epoch : 67
+Train Loss     : 2.5903
+Val Loss     : 7.0202
+Clusterability     : 0.2375
+
+Epoch : 68
+Train Loss     : 2.5827
+Val Loss     : 7.0305
+Clusterability     : 0.2175
+
+Epoch : 69
+Train Loss     : 2.5935
+Val Loss     : 6.7574
+Clusterability     : 0.2353
+
+Epoch : 70
+Train Loss     : 2.5878
+Val Loss     : 6.7764
+Clusterability     : 0.2272
+
+Epoch : 71
+Train Loss     : 2.5891
+Val Loss     : 6.3225
+Clusterability     : 0.2483
+
+Epoch : 72
+Train Loss     : 2.5805
+Val Loss     : 6.5991
+Clusterability     : 0.2308
+
+Epoch : 73
+Train Loss     : 2.5699
+Val Loss     : 6.6444
+Clusterability     : 0.2186
+
+Epoch : 74
+Train Loss     : 2.5872
+Val Loss     : 6.7836
+Clusterability     : 0.2256
+
+Epoch : 75
+Train Loss     : 2.5794
+Val Loss     : 6.4632
+Clusterability     : 0.2219
+
+Epoch : 76
+Train Loss     : 2.5739
+Val Loss     : 6.6971
+Clusterability     : 0.2294
+
+Epoch : 77
+Train Loss     : 2.5815
+Val Loss     : 6.7556
+Clusterability     : 0.2164
+
+Epoch : 78
+Train Loss     : 2.5814
+Val Loss     : 7.1095
+Clusterability     : 0.2350
+
+Epoch : 79
+Train Loss     : 2.5783
+Val Loss     : 6.9275
+Clusterability     : 0.2272
+
+Epoch : 80
+Train Loss     : 2.5785
+Val Loss     : 6.8551
+Clusterability     : 0.2467
+
+Epoch : 81
+Train Loss     : 2.5697
+Val Loss     : 6.7724
+Clusterability     : 0.2342
+
+Epoch : 82
+Train Loss     : 2.5684
+Val Loss     : 6.8715
+Clusterability     : 0.2169
+
+Epoch : 83
+Train Loss     : 2.5834
+Val Loss     : 6.7163
+Clusterability     : 0.2311
+
+Epoch : 84
+Train Loss     : 2.5758
+Val Loss     : 6.7267
+Clusterability     : 0.2278
+
+Epoch : 85
+Train Loss     : 2.5772
+Val Loss     : 6.6570
+Clusterability     : 0.2239
+
+Epoch : 86
+Train Loss     : 2.5709
+Val Loss     : 6.6652
+Clusterability     : 0.2128
+
+Epoch : 87
+Train Loss     : 2.5724
+Val Loss     : 6.9382
+Clusterability     : 0.2433
+
+Epoch : 88
+Train Loss     : 2.5820
+Val Loss     : 6.6138
+Clusterability     : 0.2425
+
+Epoch : 89
+Train Loss     : 2.5777
+Val Loss     : 6.7772
+Clusterability     : 0.2339
+
+Epoch : 90
+Train Loss     : 2.5763
+Val Loss     : 6.8248
+Clusterability     : 0.2378
+
+Epoch : 91
+Train Loss     : 2.5854
+Val Loss     : 6.7696
+Clusterability     : 0.2342
+
+Epoch : 92
+Train Loss     : 2.5625
+Val Loss     : 6.6649
+Clusterability     : 0.2269
+
+Epoch : 93
+Train Loss     : 2.5723
+Val Loss     : 6.7022
+Clusterability     : 0.2225
+
+Epoch : 94
+Train Loss     : 2.5685
+Val Loss     : 6.6635
+Clusterability     : 0.2378
+
+Epoch : 95
+Train Loss     : 2.5651
+Val Loss     : 6.7248
+Clusterability     : 0.2247
+
+Epoch : 96
+Train Loss     : 2.5578
+Val Loss     : 6.6707
+Clusterability     : 0.2264
+
+Epoch : 97
+Train Loss     : 2.5602
+Val Loss     : 6.6085
+Clusterability     : 0.2353
+
+Epoch : 98
+Train Loss     : 2.5563
+Val Loss     : 6.7931
+Clusterability     : 0.2392
+
+Epoch : 99
+Train Loss     : 2.5732
+Val Loss     : 6.5558
+Clusterability     : 0.2442
+
+Epoch : 100
+Train Loss     : 2.5770
+Val Loss     : 6.8193
+Clusterability     : 0.2244
+
+Epoch : 101
+Train Loss     : 2.5700
+Val Loss     : 6.4731
+Clusterability     : 0.2272
+
+Epoch : 102
+Train Loss     : 2.5827
+Val Loss     : 6.6192
+Clusterability     : 0.2319
+
+Epoch : 103
+Train Loss     : 2.5790
+Val Loss     : 6.6924
+Clusterability     : 0.2272
+
+Epoch : 104
+Train Loss     : 2.5752
+Val Loss     : 6.6358
+Clusterability     : 0.2258
+
+Epoch : 105
+Train Loss     : 2.5729
+Val Loss     : 6.6926
+Clusterability     : 0.2419
+
+Epoch : 106
+Train Loss     : 2.5684
+Val Loss     : 6.8398
+Clusterability     : 0.2325
+
+Epoch : 107
+Train Loss     : 2.5708
+Val Loss     : 6.4542
+Clusterability     : 0.2308
+
+Epoch : 108
+Train Loss     : 2.5730
+Val Loss     : 6.7107
+Clusterability     : 0.2322
+
+Epoch : 109
+Train Loss     : 2.5714
+Val Loss     : 6.9639
+Clusterability     : 0.2411
+
+Epoch : 110
+Train Loss     : 2.5723
+Val Loss     : 6.7379
+Clusterability     : 0.2361
+
+Epoch : 111
+Train Loss     : 2.5801
+Val Loss     : 6.7756
+Clusterability     : 0.2336
+
+Epoch : 112
+Train Loss     : 2.5765
+Val Loss     : 6.5339
+Clusterability     : 0.2375
+
+Epoch : 113
+Train Loss     : 2.5785
+Val Loss     : 6.6045
+Clusterability     : 0.2372
+
+Epoch : 114
+Train Loss     : 2.5721
+Val Loss     : 6.5642
+Clusterability     : 0.2219
+
+Epoch : 115
+Train Loss     : 2.5760
+Val Loss     : 6.5649
+Clusterability     : 0.2019
+
+Epoch : 116
+Train Loss     : 2.5700
+Val Loss     : 6.8058
+Clusterability     : 0.2106
+
+Epoch : 117
+Train Loss     : 2.5757
+Val Loss     : 6.7845
+Clusterability     : 0.2464
+
+Epoch : 118
+Train Loss     : 2.5684
+Val Loss     : 6.4194
+Clusterability     : 0.2150
+
+Epoch : 119
+Train Loss     : 2.5757
+Val Loss     : 6.8315
+Clusterability     : 0.2267
+
+Epoch : 0
+Train Loss     : 5.0256
+Val Loss     : 11.5537
+Clusterability     : 0.4192
+
+Epoch : 1
+Train Loss     : 4.6088
+Val Loss     : 11.2385
+Clusterability     : 0.4983
+
+Epoch : 2
+Train Loss     : 4.3712
+Val Loss     : 12.1972
+Clusterability     : 0.4742
+
+Epoch : 3
+Train Loss     : 4.2582
+Val Loss     : 7.8130
+Clusterability     : 0.4383
+
+Epoch : 4
+Train Loss     : 4.1942
+Val Loss     : 7.8975
+Clusterability     : 0.4133
+
+Epoch : 5
+Train Loss     : 4.1169
+Val Loss     : 6.6873
+Clusterability     : 0.3908
+
+Epoch : 6
+Train Loss     : 4.0841
+Val Loss     : 8.3743
+Clusterability     : 0.4317
+
+Epoch : 7
+Train Loss     : 4.0603
+Val Loss     : 6.5249
+Clusterability     : 0.4800
+
+Epoch : 8
+Train Loss     : 3.9714
+Val Loss     : 8.2055
+Clusterability     : 0.4508
+
+Epoch : 9
+Train Loss     : 3.8459
+Val Loss     : 8.3665
+Clusterability     : 0.5150
+
+Epoch : 10
+Train Loss     : 3.7221
+Val Loss     : 8.9269
+Clusterability     : 0.4900
+
+Epoch : 11
+Train Loss     : 3.6052
+Val Loss     : 8.8231
+Clusterability     : 0.5167
+
+Epoch : 12
+Train Loss     : 3.4873
+Val Loss     : 8.7809
+Clusterability     : 0.4525
+
+Epoch : 13
+Train Loss     : 3.3186
+Val Loss     : 7.5177
+Clusterability     : 0.5250
+
+Epoch : 14
+Train Loss     : 3.2169
+Val Loss     : 7.1662
+Clusterability     : 0.5125
+
+Epoch : 15
+Train Loss     : 3.0788
+Val Loss     : 5.4821
+Clusterability     : 0.5133
+
+Epoch : 16
+Train Loss     : 3.0553
+Val Loss     : 8.4279
+Clusterability     : 0.4883
+
+Epoch : 17
+Train Loss     : 2.9695
+Val Loss     : 5.5619
+Clusterability     : 0.5067
+
+Epoch : 18
+Train Loss     : 2.7422
+Val Loss     : 5.8816
+Clusterability     : 0.4683
+
+Epoch : 19
+Train Loss     : 2.6288
+Val Loss     : 6.5583
+Clusterability     : 0.5200
+
+Epoch : 20
+Train Loss     : 2.5314
+Val Loss     : 6.7552
+Clusterability     : 0.4800
+
+Epoch : 21
+Train Loss     : 2.4813
+Val Loss     : 5.8071
+Clusterability     : 0.4792
+
+Epoch : 22
+Train Loss     : 2.4808
+Val Loss     : 5.8556
+Clusterability     : 0.5050
+
+Epoch : 23
+Train Loss     : 2.4377
+Val Loss     : 4.8924
+Clusterability     : 0.5058
+
+Epoch : 24
+Train Loss     : 2.4393
+Val Loss     : 4.8095
+Clusterability     : 0.5125
+
+Epoch : 25
+Train Loss     : 2.4326
+Val Loss     : 5.0524
+Clusterability     : 0.5025
+
+Epoch : 26
+Train Loss     : 2.3375
+Val Loss     : 4.8428
+Clusterability     : 0.5050
+
+Epoch : 27
+Train Loss     : 2.3487
+Val Loss     : 4.7146
+Clusterability     : 0.4933
+
+Epoch : 28
+Train Loss     : 2.3319
+Val Loss     : 5.3450
+Clusterability     : 0.4667
+
+Epoch : 29
+Train Loss     : 2.2990
+Val Loss     : 5.0106
+Clusterability     : 0.5183
+
+Epoch : 30
+Train Loss     : 2.2719
+Val Loss     : 4.1930
+Clusterability     : 0.5150
+
+Epoch : 31
+Train Loss     : 2.2436
+Val Loss     : 4.6252
+Clusterability     : 0.5150
+
+Epoch : 32
+Train Loss     : 2.2641
+Val Loss     : 4.4871
+Clusterability     : 0.4933
+
+Epoch : 33
+Train Loss     : 2.2267
+Val Loss     : 4.4567
+Clusterability     : 0.4667
+
+Epoch : 34
+Train Loss     : 2.1482
+Val Loss     : 4.0982
+Clusterability     : 0.4708
+
+Epoch : 35
+Train Loss     : 2.1428
+Val Loss     : 4.2553
+Clusterability     : 0.5000
+
+Epoch : 36
+Train Loss     : 2.1379
+Val Loss     : 5.0882
+Clusterability     : 0.4875
+
+Epoch : 37
+Train Loss     : 2.1407
+Val Loss     : 4.9666
+Clusterability     : 0.4992
+
+Epoch : 38
+Train Loss     : 2.1514
+Val Loss     : 4.8580
+Clusterability     : 0.4858
+
+Epoch : 39
+Train Loss     : 2.1290
+Val Loss     : 4.1846
+Clusterability     : 0.4858
+
+Epoch : 40
+Train Loss     : 2.0672
+Val Loss     : 4.3331
+Clusterability     : 0.4700
+
+Epoch : 41
+Train Loss     : 2.0780
+Val Loss     : 5.6086
+Clusterability     : 0.5058
+
+Epoch : 42
+Train Loss     : 2.0694
+Val Loss     : 5.8498
+Clusterability     : 0.5100
+
+Epoch : 43
+Train Loss     : 2.0327
+Val Loss     : 4.3401
+Clusterability     : 0.4867
+
+Epoch : 44
+Train Loss     : 1.9985
+Val Loss     : 4.5818
+Clusterability     : 0.4808
+
+Epoch : 45
+Train Loss     : 1.9698
+Val Loss     : 4.0201
+Clusterability     : 0.4975
+
+Epoch : 46
+Train Loss     : 1.9953
+Val Loss     : 6.1012
+Clusterability     : 0.5333
+
+Epoch : 47
+Train Loss     : 1.9972
+Val Loss     : 5.1974
+Clusterability     : 0.5000
+
+Epoch : 48
+Train Loss     : 1.9769
+Val Loss     : 5.1361
+Clusterability     : 0.4950
+
+Epoch : 49
+Train Loss     : 1.9258
+Val Loss     : 4.9462
+Clusterability     : 0.5308
+
+Epoch : 50
+Train Loss     : 1.9520
+Val Loss     : 4.9092
+Clusterability     : 0.4825
+
+Epoch : 51
+Train Loss     : 1.9020
+Val Loss     : 5.0230
+Clusterability     : 0.5308
+
+Epoch : 52
+Train Loss     : 1.8757
+Val Loss     : 4.9729
+Clusterability     : 0.4933
+
+Epoch : 53
+Train Loss     : 1.9227
+Val Loss     : 5.1934
+Clusterability     : 0.5142
+
+Epoch : 54
+Train Loss     : 1.8708
+Val Loss     : 4.5391
+Clusterability     : 0.5325
+
+Epoch : 55
+Train Loss     : 1.8790
+Val Loss     : 5.2456
+Clusterability     : 0.5342
+
+Epoch : 56
+Train Loss     : 1.8854
+Val Loss     : 5.0351
+Clusterability     : 0.5283
+
+Epoch : 57
+Train Loss     : 1.8798
+Val Loss     : 4.8089
+Clusterability     : 0.5267
+
+Epoch : 58
+Train Loss     : 1.8634
+Val Loss     : 4.7980
+Clusterability     : 0.5292
+
+Epoch : 59
+Train Loss     : 1.8658
+Val Loss     : 4.5493
+Clusterability     : 0.5433
+
+Epoch : 60
+Train Loss     : 1.8257
+Val Loss     : 4.5657
+Clusterability     : 0.5358
+
+Epoch : 61
+Train Loss     : 1.8577
+Val Loss     : 4.3964
+Clusterability     : 0.5417
+
+Epoch : 62
+Train Loss     : 1.8512
+Val Loss     : 4.6900
+Clusterability     : 0.5492
+
+Epoch : 63
+Train Loss     : 1.7898
+Val Loss     : 4.6384
+Clusterability     : 0.5400
+
+Epoch : 64
+Train Loss     : 1.8403
+Val Loss     : 4.5781
+Clusterability     : 0.5350
+
+Epoch : 65
+Train Loss     : 1.8210
+Val Loss     : 4.4817
+Clusterability     : 0.5592
+
+Epoch : 66
+Train Loss     : 1.8264
+Val Loss     : 4.8632
+Clusterability     : 0.5200
+
+Epoch : 67
+Train Loss     : 1.7890
+Val Loss     : 4.2635
+Clusterability     : 0.5442
+
+Epoch : 68
+Train Loss     : 1.8090
+Val Loss     : 4.4214
+Clusterability     : 0.5575
+
+Epoch : 69
+Train Loss     : 1.7820
+Val Loss     : 4.5593
+Clusterability     : 0.5517
+
+Epoch : 70
+Train Loss     : 1.7859
+Val Loss     : 4.8213
+Clusterability     : 0.5442
+
+Epoch : 71
+Train Loss     : 1.7922
+Val Loss     : 4.7945
+Clusterability     : 0.5433
+
+Epoch : 72
+Train Loss     : 1.7668
+Val Loss     : 4.8893
+Clusterability     : 0.5467
+
+Epoch : 73
+Train Loss     : 1.7901
+Val Loss     : 5.1354
+Clusterability     : 0.5592
+
+Epoch : 74
+Train Loss     : 1.7593
+Val Loss     : 4.6017
+Clusterability     : 0.5592
+
+Epoch : 75
+Train Loss     : 1.7696
+Val Loss     : 5.0036
+Clusterability     : 0.5325
+
+Epoch : 76
+Train Loss     : 1.7342
+Val Loss     : 4.8095
+Clusterability     : 0.5508
+
+Epoch : 77
+Train Loss     : 1.7417
+Val Loss     : 4.8592
+Clusterability     : 0.5425
+
+Epoch : 78
+Train Loss     : 1.7266
+Val Loss     : 5.0157
+Clusterability     : 0.5333
+
+Epoch : 79
+Train Loss     : 1.7475
+Val Loss     : 4.5915
+Clusterability     : 0.5342
+
+Epoch : 80
+Train Loss     : 1.7250
+Val Loss     : 5.0220
+Clusterability     : 0.5333
+
+Epoch : 81
+Train Loss     : 1.7077
+Val Loss     : 4.7994
+Clusterability     : 0.5308
+
+Epoch : 82
+Train Loss     : 1.7565
+Val Loss     : 4.9009
+Clusterability     : 0.5283
+
+Epoch : 83
+Train Loss     : 1.7355
+Val Loss     : 5.0758
+Clusterability     : 0.5342
+
+Epoch : 84
+Train Loss     : 1.7252
+Val Loss     : 4.6657
+Clusterability     : 0.5642
+
+Epoch : 85
+Train Loss     : 1.7002
+Val Loss     : 4.6375
+Clusterability     : 0.5400
+
+Epoch : 86
+Train Loss     : 1.7398
+Val Loss     : 4.6320
+Clusterability     : 0.5667
+
+Epoch : 87
+Train Loss     : 1.7205
+Val Loss     : 4.7083
+Clusterability     : 0.5558
+
+Epoch : 88
+Train Loss     : 1.7571
+Val Loss     : 4.5818
+Clusterability     : 0.5558
+
+Epoch : 89
+Train Loss     : 1.7153
+Val Loss     : 4.7536
+Clusterability     : 0.5150
+
+Epoch : 90
+Train Loss     : 1.6799
+Val Loss     : 4.7240
+Clusterability     : 0.5533
+
+Epoch : 91
+Train Loss     : 1.6919
+Val Loss     : 4.6563
+Clusterability     : 0.5575
+
+Epoch : 92
+Train Loss     : 1.6765
+Val Loss     : 4.7818
+Clusterability     : 0.5192
+
+Epoch : 93
+Train Loss     : 1.7237
+Val Loss     : 4.9344
+Clusterability     : 0.5450
+
+Epoch : 94
+Train Loss     : 1.6943
+Val Loss     : 4.8893
+Clusterability     : 0.5500
+
+Epoch : 95
+Train Loss     : 1.6661
+Val Loss     : 5.0329
+Clusterability     : 0.5483
+
+Epoch : 96
+Train Loss     : 1.7158
+Val Loss     : 4.9847
+Clusterability     : 0.5442
+
+Epoch : 97
+Train Loss     : 1.7147
+Val Loss     : 4.8090
+Clusterability     : 0.5692
+
+Epoch : 98
+Train Loss     : 1.6671
+Val Loss     : 5.0519
+Clusterability     : 0.5600
+
+Epoch : 99
+Train Loss     : 1.6997
+Val Loss     : 4.8158
+Clusterability     : 0.5542
+
+Epoch : 100
+Train Loss     : 1.6796
+Val Loss     : 4.7718
+Clusterability     : 0.5642
+
+Epoch : 101
+Train Loss     : 1.6576
+Val Loss     : 4.7263
+Clusterability     : 0.5483
+
+Epoch : 102
+Train Loss     : 1.7019
+Val Loss     : 4.7854
+Clusterability     : 0.5300
+
+Epoch : 103
+Train Loss     : 1.6594
+Val Loss     : 4.8152
+Clusterability     : 0.5600
+
+Epoch : 104
+Train Loss     : 1.6945
+Val Loss     : 4.7518
+Clusterability     : 0.5450
+
+Epoch : 105
+Train Loss     : 1.6421
+Val Loss     : 5.0366
+Clusterability     : 0.5600
+
+Epoch : 106
+Train Loss     : 1.6835
+Val Loss     : 4.9003
+Clusterability     : 0.5658
+
+Epoch : 107
+Train Loss     : 1.6701
+Val Loss     : 4.9737
+Clusterability     : 0.5483
+
+Epoch : 108
+Train Loss     : 1.7050
+Val Loss     : 4.7758
+Clusterability     : 0.5908
+
+Epoch : 109
+Train Loss     : 1.6765
+Val Loss     : 4.9696
+Clusterability     : 0.5550
+
+Epoch : 110
+Train Loss     : 1.6903
+Val Loss     : 5.0187
+Clusterability     : 0.5617
+
+Epoch : 111
+Train Loss     : 1.6871
+Val Loss     : 5.0597
+Clusterability     : 0.5550
+
+Epoch : 112
+Train Loss     : 1.6740
+Val Loss     : 5.0225
+Clusterability     : 0.5500
+
+Epoch : 113
+Train Loss     : 1.6980
+Val Loss     : 4.8362
+Clusterability     : 0.5517
+
+Epoch : 114
+Train Loss     : 1.6781
+Val Loss     : 4.8984
+Clusterability     : 0.5733
+
+Epoch : 115
+Train Loss     : 1.6716
+Val Loss     : 4.8974
+Clusterability     : 0.5658
+
+Epoch : 116
+Train Loss     : 1.6613
+Val Loss     : 4.9652
+Clusterability     : 0.5533
+
+Epoch : 117
+Train Loss     : 1.6767
+Val Loss     : 4.9623
+Clusterability     : 0.5550
+
+Epoch : 118
+Train Loss     : 1.6812
+Val Loss     : 4.8593
+Clusterability     : 0.5567
+
+Epoch : 119
+Train Loss     : 1.6723
+Val Loss     : 4.8232
+Clusterability     : 0.5600
+
+Epoch : 0
+Train Loss     : 3.1657
+Val Loss     : 3.5064
+Clusterability     : 0.6008
+
+Epoch : 1
+Train Loss     : 2.0213
+Val Loss     : 2.8509
+Clusterability     : 0.6140
+
+Epoch : 2
+Train Loss     : 1.4178
+Val Loss     : 2.5812
+Clusterability     : 0.5921
+
+Epoch : 3
+Train Loss     : 1.0664
+Val Loss     : 2.2115
+Clusterability     : 0.5887
+
+Epoch : 4
+Train Loss     : 0.8487
+Val Loss     : 2.1087
+Clusterability     : 0.5946
+
+Epoch : 5
+Train Loss     : 0.7021
+Val Loss     : 1.9962
+Clusterability     : 0.6018
+
+Epoch : 6
+Train Loss     : 0.6298
+Val Loss     : 1.8430
+Clusterability     : 0.5815
+
+Epoch : 7
+Train Loss     : 0.5870
+Val Loss     : 1.8311
+Clusterability     : 0.5855
+
+Epoch : 8
+Train Loss     : 0.5821
+Val Loss     : 1.8748
+Clusterability     : 0.5835
+
+Epoch : 9
+Train Loss     : 0.5120
+Val Loss     : 1.7665
+Clusterability     : 0.5801
+
+Epoch : 10
+Train Loss     : 0.4869
+Val Loss     : 1.8148
+Clusterability     : 0.5913
+
+Epoch : 11
+Train Loss     : 0.4789
+Val Loss     : 1.7283
+Clusterability     : 0.5814
+
+Epoch : 12
+Train Loss     : 0.4594
+Val Loss     : 1.7683
+Clusterability     : 0.5861
+
+Epoch : 13
+Train Loss     : 0.4328
+Val Loss     : 1.7939
+Clusterability     : 0.5860
+
+Epoch : 14
+Train Loss     : 0.4291
+Val Loss     : 1.6965
+Clusterability     : 0.5827
+
+Epoch : 15
+Train Loss     : 0.4097
+Val Loss     : 1.7456
+Clusterability     : 0.6004
+
+Epoch : 16
+Train Loss     : 0.3996
+Val Loss     : 1.9180
+Clusterability     : 0.5950
+
+Epoch : 17
+Train Loss     : 0.4050
+Val Loss     : 1.8376
+Clusterability     : 0.5933
+
+Epoch : 18
+Train Loss     : 0.3916
+Val Loss     : 1.6966
+Clusterability     : 0.5992
+
+Epoch : 19
+Train Loss     : 0.3782
+Val Loss     : 1.6650
+Clusterability     : 0.5798
+
+Epoch : 20
+Train Loss     : 0.3767
+Val Loss     : 1.5967
+Clusterability     : 0.6004
+
+Epoch : 21
+Train Loss     : 0.3545
+Val Loss     : 1.6775
+Clusterability     : 0.5807
+
+Epoch : 22
+Train Loss     : 0.3626
+Val Loss     : 1.5660
+Clusterability     : 0.5887
+
+Epoch : 23
+Train Loss     : 0.3468
+Val Loss     : 1.5964
+Clusterability     : 0.5816
+
+Epoch : 24
+Train Loss     : 0.3440
+Val Loss     : 1.5708
+Clusterability     : 0.5925
+
+Epoch : 25
+Train Loss     : 0.3429
+Val Loss     : 1.5856
+Clusterability     : 0.5943
+
+Epoch : 26
+Train Loss     : 0.3344
+Val Loss     : 1.5964
+Clusterability     : 0.5911
+
+Epoch : 27
+Train Loss     : 0.3271
+Val Loss     : 1.5681
+Clusterability     : 0.5791
+
+Epoch : 28
+Train Loss     : 0.3239
+Val Loss     : 1.5400
+Clusterability     : 0.5830
+
+Epoch : 29
+Train Loss     : 0.3250
+Val Loss     : 2.2377
+Clusterability     : 0.5832
+
+Epoch : 30
+Train Loss     : 0.3229
+Val Loss     : 1.6395
+Clusterability     : 0.5886
+
+Epoch : 31
+Train Loss     : 0.3056
+Val Loss     : 1.4809
+Clusterability     : 0.5974
+
+Epoch : 32
+Train Loss     : 0.3059
+Val Loss     : 1.6635
+Clusterability     : 0.5837
+
+Epoch : 33
+Train Loss     : 0.2989
+Val Loss     : 1.5857
+Clusterability     : 0.5855
+
+Epoch : 34
+Train Loss     : 0.2967
+Val Loss     : 1.5369
+Clusterability     : 0.5905
+
+Epoch : 35
+Train Loss     : 0.3059
+Val Loss     : 1.5850
+Clusterability     : 0.5916
+
+Epoch : 36
+Train Loss     : 0.2858
+Val Loss     : 1.4636
+Clusterability     : 0.5874
+
+Epoch : 37
+Train Loss     : 0.2918
+Val Loss     : 1.5359
+Clusterability     : 0.5938
+
+Epoch : 38
+Train Loss     : 0.2790
+Val Loss     : 1.6296
+Clusterability     : 0.5852
+
+Epoch : 39
+Train Loss     : 0.2859
+Val Loss     : 1.5951
+Clusterability     : 0.5841
+
+Epoch : 40
+Train Loss     : 0.2863
+Val Loss     : 1.6406
+Clusterability     : 0.5906
+
+Epoch : 41
+Train Loss     : 0.2682
+Val Loss     : 1.4821
+Clusterability     : 0.5804
+
+Epoch : 42
+Train Loss     : 0.2660
+Val Loss     : 1.5431
+Clusterability     : 0.5903
+
+Epoch : 43
+Train Loss     : 0.2737
+Val Loss     : 1.5731
+Clusterability     : 0.5871
+
+Epoch : 44
+Train Loss     : 0.2627
+Val Loss     : 1.3434
+Clusterability     : 0.5778
+
+Epoch : 45
+Train Loss     : 0.2658
+Val Loss     : 1.7990
+Clusterability     : 0.5821
+
+Epoch : 46
+Train Loss     : 0.2672
+Val Loss     : 1.4556
+Clusterability     : 0.5831
+
+Epoch : 47
+Train Loss     : 0.2644
+Val Loss     : 1.5878
+Clusterability     : 0.5805
+
+Epoch : 48
+Train Loss     : 0.2573
+Val Loss     : 1.5992
+Clusterability     : 0.5921
+
+Epoch : 49
+Train Loss     : 0.2544
+Val Loss     : 1.5961
+Clusterability     : 0.5940
+
+Epoch : 50
+Train Loss     : 0.2526
+Val Loss     : 1.3971
+Clusterability     : 0.5815
+
+Epoch : 51
+Train Loss     : 0.2535
+Val Loss     : 1.4888
+Clusterability     : 0.5890
+
+Epoch : 52
+Train Loss     : 0.2451
+Val Loss     : 1.4563
+Clusterability     : 0.5909
+
+Epoch : 53
+Train Loss     : 0.2449
+Val Loss     : 1.3991
+Clusterability     : 0.5837
+
+Epoch : 54
+Train Loss     : 0.2410
+Val Loss     : 1.4108
+Clusterability     : 0.5715
+
+Epoch : 55
+Train Loss     : 0.2386
+Val Loss     : 1.3028
+Clusterability     : 0.5779
+
+Epoch : 56
+Train Loss     : 0.2432
+Val Loss     : 1.3582
+Clusterability     : 0.5827
+
+Epoch : 57
+Train Loss     : 0.2393
+Val Loss     : 1.4947
+Clusterability     : 0.5776
+
+Epoch : 58
+Train Loss     : 0.2324
+Val Loss     : 1.3551
+Clusterability     : 0.5885
+
+Epoch : 59
+Train Loss     : 0.2387
+Val Loss     : 1.4367
+Clusterability     : 0.5789
+
+Epoch : 60
+Train Loss     : 0.2306
+Val Loss     : 1.4494
+Clusterability     : 0.5891
+
+Epoch : 61
+Train Loss     : 0.2388
+Val Loss     : 1.5015
+Clusterability     : 0.5857
+
+Epoch : 62
+Train Loss     : 0.2309
+Val Loss     : 1.4006
+Clusterability     : 0.5906
+
+Epoch : 63
+Train Loss     : 0.2214
+Val Loss     : 1.4928
+Clusterability     : 0.5823
+
+Epoch : 64
+Train Loss     : 0.2241
+Val Loss     : 1.4102
+Clusterability     : 0.5875
+
+Epoch : 65
+Train Loss     : 0.2153
+Val Loss     : 1.3677
+Clusterability     : 0.5911
+
+Epoch : 66
+Train Loss     : 0.2233
+Val Loss     : 1.5019
+Clusterability     : 0.5806
+
+Epoch : 67
+Train Loss     : 0.2200
+Val Loss     : 1.4050
+Clusterability     : 0.5863
+
+Epoch : 68
+Train Loss     : 0.2244
+Val Loss     : 1.3708
+Clusterability     : 0.5737
+
+Epoch : 69
+Train Loss     : 0.2205
+Val Loss     : 1.4156
+Clusterability     : 0.5837
+
+Epoch : 70
+Train Loss     : 0.2209
+Val Loss     : 1.3365
+Clusterability     : 0.5764
+
+Epoch : 71
+Train Loss     : 0.2200
+Val Loss     : 1.4631
+Clusterability     : 0.5747
+
+Epoch : 72
+Train Loss     : 0.2117
+Val Loss     : 1.3969
+Clusterability     : 0.5761
+
+Epoch : 73
+Train Loss     : 0.2128
+Val Loss     : 1.4792
+Clusterability     : 0.5745
+
+Epoch : 74
+Train Loss     : 0.2121
+Val Loss     : 1.3705
+Clusterability     : 0.5772
+
+Epoch : 75
+Train Loss     : 0.2096
+Val Loss     : 1.3834
+Clusterability     : 0.5736
+
+Epoch : 76
+Train Loss     : 0.2104
+Val Loss     : 1.2956
+Clusterability     : 0.5796
+
+Epoch : 77
+Train Loss     : 0.2053
+Val Loss     : 1.4423
+Clusterability     : 0.5738
+
+Epoch : 78
+Train Loss     : 0.2101
+Val Loss     : 1.4511
+Clusterability     : 0.5885
+
+Epoch : 79
+Train Loss     : 0.2023
+Val Loss     : 1.3602
+Clusterability     : 0.5787
+
+Epoch : 80
+Train Loss     : 0.1998
+Val Loss     : 1.3727
+Clusterability     : 0.5731
+
+Epoch : 81
+Train Loss     : 0.1992
+Val Loss     : 1.5926
+Clusterability     : 0.5761
+
+Epoch : 82
+Train Loss     : 0.2030
+Val Loss     : 1.4461
+Clusterability     : 0.5830
+
+Epoch : 83
+Train Loss     : 0.1977
+Val Loss     : 1.4393
+Clusterability     : 0.5685
+
+Epoch : 84
+Train Loss     : 0.2009
+Val Loss     : 1.5651
+Clusterability     : 0.5746
+
+Epoch : 85
+Train Loss     : 0.1999
+Val Loss     : 1.4477
+Clusterability     : 0.5867
+
+Epoch : 86
+Train Loss     : 0.1994
+Val Loss     : 1.5687
+Clusterability     : 0.5760
+
+Epoch : 87
+Train Loss     : 0.1943
+Val Loss     : 1.3848
+Clusterability     : 0.5768
+
+Epoch : 88
+Train Loss     : 0.1985
+Val Loss     : 1.3311
+Clusterability     : 0.5720
+
+Epoch : 89
+Train Loss     : 0.1938
+Val Loss     : 1.4577
+Clusterability     : 0.5651
+
+Epoch : 90
+Train Loss     : 0.1939
+Val Loss     : 1.4290
+Clusterability     : 0.5695
+
+Epoch : 91
+Train Loss     : 0.1927
+Val Loss     : 1.4540
+Clusterability     : 0.5734
+
+Epoch : 92
+Train Loss     : 0.1941
+Val Loss     : 1.4083
+Clusterability     : 0.5697
+
+Epoch : 93
+Train Loss     : 0.1911
+Val Loss     : 1.3529
+Clusterability     : 0.5770
+
+Epoch : 94
+Train Loss     : 0.1954
+Val Loss     : 1.5281
+Clusterability     : 0.5761
+
+Epoch : 95
+Train Loss     : 0.1893
+Val Loss     : 1.5873
+Clusterability     : 0.5643
+
+Epoch : 96
+Train Loss     : 0.1874
+Val Loss     : 1.5097
+Clusterability     : 0.5653
+
+Epoch : 97
+Train Loss     : 0.1890
+Val Loss     : 1.4435
+Clusterability     : 0.5734
+
+Epoch : 98
+Train Loss     : 0.1899
+Val Loss     : 1.4069
+Clusterability     : 0.5633
+
+Epoch : 99
+Train Loss     : 0.1877
+Val Loss     : 1.4561
+Clusterability     : 0.5744
+
+Epoch : 100
+Train Loss     : 0.1856
+Val Loss     : 1.3890
+Clusterability     : 0.5699
+
+Epoch : 101
+Train Loss     : 0.1865
+Val Loss     : 1.3613
+Clusterability     : 0.5680
+
+Epoch : 102
+Train Loss     : 0.1862
+Val Loss     : 1.3583
+Clusterability     : 0.5727
+
+Epoch : 103
+Train Loss     : 0.1848
+Val Loss     : 1.3639
+Clusterability     : 0.5763
+
+Epoch : 104
+Train Loss     : 0.1849
+Val Loss     : 1.4047
+Clusterability     : 0.5787
+
+Epoch : 105
+Train Loss     : 0.1818
+Val Loss     : 1.3827
+Clusterability     : 0.5649
+
+Epoch : 106
+Train Loss     : 0.1848
+Val Loss     : 1.4181
+Clusterability     : 0.5793
+
+Epoch : 107
+Train Loss     : 0.1821
+Val Loss     : 1.4242
+Clusterability     : 0.5718
+
+Epoch : 108
+Train Loss     : 0.1843
+Val Loss     : 1.4250
+Clusterability     : 0.5673
+
+Epoch : 109
+Train Loss     : 0.1780
+Val Loss     : 1.3895
+Clusterability     : 0.5684
+
+Epoch : 110
+Train Loss     : 0.1762
+Val Loss     : 1.4263
+Clusterability     : 0.5784
+
+Epoch : 111
+Train Loss     : 0.1816
+Val Loss     : 1.3770
+Clusterability     : 0.5654
+
+Epoch : 112
+Train Loss     : 0.1801
+Val Loss     : 1.4338
+Clusterability     : 0.5699
+
+Epoch : 113
+Train Loss     : 0.1816
+Val Loss     : 1.4202
+Clusterability     : 0.5624
+
+Epoch : 114
+Train Loss     : 0.1812
+Val Loss     : 1.3928
+Clusterability     : 0.5676
+
+Epoch : 115
+Train Loss     : 0.1790
+Val Loss     : 1.3954
+Clusterability     : 0.5667
+
+Epoch : 116
+Train Loss     : 0.1801
+Val Loss     : 1.3858
+Clusterability     : 0.5697
+
+Epoch : 117
+Train Loss     : 0.1819
+Val Loss     : 1.3887
+Clusterability     : 0.5641
+
+Epoch : 118
+Train Loss     : 0.1801
+Val Loss     : 1.4234
+Clusterability     : 0.5668
+
+Epoch : 119
+Train Loss     : 0.1775
+Val Loss     : 1.4477
+Clusterability     : 0.5657
